@@ -118,7 +118,7 @@ starter_data = [
 data = createDataForCsv(user_input_lower, user_input_upper, starter_data)
 
 # File path for the CSV file
-csv_file_path = "datadummy.csv"
+csv_file_path = "data.csv"
 
 # Open the file in write mode
 with open(csv_file_path, mode="w", newline="") as file:
