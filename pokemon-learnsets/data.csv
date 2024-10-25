@@ -1,152 +1,152 @@
-Pokemon,Level-up moves to add to Gen 1 learnset,TMs to add to Gen 1 learnset (if TM exists in Gen 1),New TMs to add to Gen 1 learnset (if TM does not exist in Gen 1),Tutor moves to add TM support for,Egg moves from Gen 2
-bulbasaur,[],['flash'],"['headbutt', 'defense-curl']",[],"['razor-wind', 'petal-dance', 'light-screen', 'skull-bash']"
-ivysaur,[],['flash'],"['headbutt', 'defense-curl']",[],[]
-venusaur,[],['flash'],"['headbutt', 'roar', 'defense-curl']",[],[]
-charmander,"['dragon-rage', 'smokescreen']",[],"['fire-punch', 'headbutt', 'defense-curl']",['flamethrower'],"['bite', 'rock-slide']"
-charmeleon,"['dragon-rage', 'smokescreen']",[],"['fire-punch', 'headbutt', 'defense-curl']",['flamethrower'],[]
-charizard,"['wing-attack', 'dragon-rage', 'smokescreen', 'smokescreen']",[],"['fire-punch', 'headbutt', 'roar', 'defense-curl']",['flamethrower'],[]
-squirtle,[],[],"['ice-punch', 'headbutt', 'defense-curl', 'waterfall']",[],"['mist', 'confusion', 'haze']"
-wartortle,[],[],"['ice-punch', 'headbutt', 'defense-curl', 'waterfall']",[],[]
-blastoise,[],[],"['ice-punch', 'headbutt', 'roar', 'defense-curl', 'waterfall']",[],[]
-caterpie,[],[],[],[],[]
-metapod,[],[],[],[],[]
-butterfree,[],[],[],[],[]
-weedle,[],[],[],[],[]
-kakuna,[],[],[],[],[]
-beedrill,[],[],[],[],[]
-pidgey,['tackle'],[],[],[],[]
-pidgeotto,['tackle'],[],[],[],[]
-pidgeot,['tackle'],[],[],[],[]
-rattata,[],[],"['headbutt', 'defense-curl']",[],"['bite', 'counter', 'screech', 'fury-swipes']"
-raticate,[],"['cut', 'strength']","['headbutt', 'roar', 'defense-curl']",[],[]
-spearow,[],[],[],[],"['quick-attack', 'tri-attack']"
-fearow,[],[],[],[],[]
-ekans,['haze'],[],['headbutt'],[],['slam']
-arbok,['haze'],[],['headbutt'],[],[]
-pikachu,[],['strength'],"['thunder-punch', 'headbutt', 'defense-curl']",[],[]
-raichu,"['tail-whip', 'thunderbolt', 'quick-attack']",['strength'],"['thunder-punch', 'headbutt', 'defense-curl']",[],[]
-sandshrew,['defense-curl'],[],"['headbutt', 'defense-curl']",[],['counter']
-sandslash,"['defense-curl', 'defense-curl']",[],"['headbutt', 'defense-curl']",[],[]
-nidoran-f,[],[],"['headbutt', 'defense-curl']",[],"['take-down', 'supersonic', 'disable', 'counter', 'focus-energy']"
-nidorina,[],['strength'],"['headbutt', 'defense-curl']",[],[]
-nidoqueen,[],[],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'roar', 'defense-curl']",['flamethrower'],[]
-nidoran-m,[],[],"['headbutt', 'defense-curl']",[],"['take-down', 'supersonic', 'disable', 'counter', 'confusion', 'amnesia']"
-nidorino,[],['strength'],"['headbutt', 'defense-curl']",[],[]
-nidoking,[],[],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'roar', 'defense-curl']",['flamethrower'],[]
-clefairy,[],['dream-eater'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'defense-curl']",['flamethrower'],[]
-clefable,[],['dream-eater'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'defense-curl']",['flamethrower'],[]
-vulpix,[],[],['headbutt'],['flamethrower'],"['disable', 'hypnosis']"
-ninetales,"['fire-spin', 'confuse-ray']",[],"['headbutt', 'roar']",['flamethrower'],[]
-jigglypuff,[],['dream-eater'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'defense-curl']",['flamethrower'],[]
-wigglytuff,[],['dream-eater'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'defense-curl']",['flamethrower'],[]
-zubat,[],[],[],[],"['gust', 'whirlwind', 'quick-attack']"
-golbat,[],[],[],[],[]
-oddish,[],['flash'],[],[],"['swords-dance', 'razor-leaf']"
-gloom,[],['flash'],[],[],[]
-vileplume,['absorb'],['flash'],[],[],[]
-paras,['poison-powder'],['flash'],[],[],"['psybeam', 'counter', 'screech', 'light-screen']"
-parasect,"['poison-powder', 'poison-powder']",['flash'],[],[],[]
-venonat,[],['swift'],[],[],['screech']
-venomoth,['gust'],[],[],[],[]
-diglett,['fissure'],[],[],[],['screech']
-dugtrio,"['fissure', 'tri-attack']",[],[],[],[]
-meowth,[],['dream-eater'],"['headbutt', 'defense-curl']",[],"['hypnosis', 'amnesia']"
-persian,[],['dream-eater'],"['headbutt', 'roar', 'defense-curl']",[],[]
-psyduck,['screech'],['flash'],"['ice-punch', 'headbutt', 'waterfall']",[],"['ice-beam', 'psybeam', 'psychic', 'hypnosis', 'light-screen']"
-golduck,['screech'],['flash'],"['ice-punch', 'headbutt', 'waterfall']",[],[]
-mankey,[],[],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'defense-curl']",[],"['counter', 'meditate', 'rock-slide']"
-primeape,[],[],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'defense-curl']",[],[]
-growlithe,[],[],"['headbutt', 'roar']",['flamethrower'],"['body-slam', 'thrash', 'fire-spin']"
-arcanine,[],[],"['headbutt', 'roar']",['flamethrower'],[]
-poliwag,[],[],"['headbutt', 'defense-curl', 'waterfall']",[],"['mist', 'bubble-beam', 'haze', 'splash']"
-poliwhirl,[],[],"['ice-punch', 'headbutt', 'defense-curl', 'waterfall']",[],[]
-poliwrath,"['submission', 'submission']",[],"['ice-punch', 'headbutt', 'defense-curl', 'waterfall']",[],[]
-abra,[],['dream-eater'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",[],"['barrier', 'light-screen']"
-kadabra,[],['dream-eater'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",[],[]
-alakazam,[],['dream-eater'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",[],[]
-machop,[],[],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",['flamethrower'],"['rolling-kick', 'meditate', 'light-screen']"
-machoke,[],[],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",['flamethrower'],[]
-machamp,[],[],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",['flamethrower'],[]
-bellsprout,[],['flash'],[],[],"['swords-dance', 'reflect', 'leech-life']"
-weepinbell,[],['flash'],[],[],[]
-victreebel,['vine-whip'],['flash'],[],[],[]
-tentacool,['bubble-beam'],[],[],[],"['aurora-beam', 'haze']"
-tentacruel,['bubble-beam'],[],[],[],[]
-geodude,[],[],"['fire-punch', 'headbutt', 'defense-curl']",['flamethrower'],"['mega-punch', 'rock-slide']"
-graveler,[],[],"['fire-punch', 'headbutt', 'defense-curl']",['flamethrower'],[]
-golem,[],[],"['fire-punch', 'headbutt', 'roar', 'defense-curl']",['flamethrower'],[]
-ponyta,"['tackle', 'fire-blast']",[],['headbutt'],['flamethrower'],"['double-kick', 'thrash', 'hypnosis', 'quick-attack']"
-rapidash,"['fury-attack', 'tackle', 'fire-blast']",[],['headbutt'],['flamethrower'],[]
+Pokemon,New level-up moves in Gen 1 learnset,New TMs in Gen 1 learnset (if TM already exists in Gen 1),New TMs in Gen 1 learnset (if TM does not exist in Gen 1),New Tutor moves in Gen 1 learnset,New Egg moves in Gen 1 learnset
+bulbasaur,,['flash'],"['headbutt', 'defense-curl']",,"['razor-wind', 'petal-dance', 'light-screen', 'skull-bash']"
+ivysaur,,['flash'],"['headbutt', 'defense-curl']",,
+venusaur,,['flash'],"['headbutt', 'roar', 'defense-curl']",,
+charmander,"['dragon-rage', 'smokescreen']",,"['fire-punch', 'headbutt', 'defense-curl']",['flamethrower'],"['bite', 'rock-slide']"
+charmeleon,"['dragon-rage', 'smokescreen']",,"['fire-punch', 'headbutt', 'defense-curl']",['flamethrower'],
+charizard,"['wing-attack', 'dragon-rage', 'smokescreen', 'smokescreen']",,"['fire-punch', 'headbutt', 'roar', 'defense-curl']",['flamethrower'],
+squirtle,,,"['ice-punch', 'headbutt', 'defense-curl', 'waterfall']",,"['mist', 'confusion', 'haze']"
+wartortle,,,"['ice-punch', 'headbutt', 'defense-curl', 'waterfall']",,
+blastoise,,,"['ice-punch', 'headbutt', 'roar', 'defense-curl', 'waterfall']",,
+caterpie,,,,,
+metapod,,,,,
+butterfree,,,,,
+weedle,,,,,
+kakuna,,,,,
+beedrill,,,,,
+pidgey,['tackle'],,,,
+pidgeotto,['tackle'],,,,
+pidgeot,['tackle'],,,,
+rattata,,,"['headbutt', 'defense-curl']",,"['bite', 'counter', 'screech', 'fury-swipes']"
+raticate,,"['cut', 'strength']","['headbutt', 'roar', 'defense-curl']",,
+spearow,,,,,"['quick-attack', 'tri-attack']"
+fearow,,,,,
+ekans,['haze'],,['headbutt'],,['slam']
+arbok,['haze'],,['headbutt'],,
+pikachu,,['strength'],"['thunder-punch', 'headbutt', 'defense-curl']",,
+raichu,"['tail-whip', 'thunderbolt', 'quick-attack']",['strength'],"['thunder-punch', 'headbutt', 'defense-curl']",,
+sandshrew,['defense-curl'],,"['headbutt', 'defense-curl']",,['counter']
+sandslash,"['defense-curl', 'defense-curl']",,"['headbutt', 'defense-curl']",,
+nidoran-f,,,"['headbutt', 'defense-curl']",,"['take-down', 'supersonic', 'disable', 'counter', 'focus-energy']"
+nidorina,,['strength'],"['headbutt', 'defense-curl']",,
+nidoqueen,,,"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'roar', 'defense-curl']",['flamethrower'],
+nidoran-m,,,"['headbutt', 'defense-curl']",,"['take-down', 'supersonic', 'disable', 'counter', 'confusion', 'amnesia']"
+nidorino,,['strength'],"['headbutt', 'defense-curl']",,
+nidoking,,,"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'roar', 'defense-curl']",['flamethrower'],
+clefairy,,['dream-eater'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'defense-curl']",['flamethrower'],
+clefable,,['dream-eater'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'defense-curl']",['flamethrower'],
+vulpix,,,['headbutt'],['flamethrower'],"['disable', 'hypnosis']"
+ninetales,"['fire-spin', 'confuse-ray']",,"['headbutt', 'roar']",['flamethrower'],
+jigglypuff,,['dream-eater'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'defense-curl']",['flamethrower'],
+wigglytuff,,['dream-eater'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'defense-curl']",['flamethrower'],
+zubat,,,,,"['gust', 'whirlwind', 'quick-attack']"
+golbat,,,,,
+oddish,,['flash'],,,"['swords-dance', 'razor-leaf']"
+gloom,,['flash'],,,
+vileplume,['absorb'],['flash'],,,
+paras,['poison-powder'],['flash'],,,"['psybeam', 'counter', 'screech', 'light-screen']"
+parasect,"['poison-powder', 'poison-powder']",['flash'],,,
+venonat,,['swift'],,,['screech']
+venomoth,['gust'],,,,
+diglett,['fissure'],,,,['screech']
+dugtrio,"['fissure', 'tri-attack']",,,,
+meowth,,['dream-eater'],"['headbutt', 'defense-curl']",,"['hypnosis', 'amnesia']"
+persian,,['dream-eater'],"['headbutt', 'roar', 'defense-curl']",,
+psyduck,['screech'],['flash'],"['ice-punch', 'headbutt', 'waterfall']",,"['ice-beam', 'psybeam', 'psychic', 'hypnosis', 'light-screen']"
+golduck,['screech'],['flash'],"['ice-punch', 'headbutt', 'waterfall']",,
+mankey,,,"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'defense-curl']",,"['counter', 'meditate', 'rock-slide']"
+primeape,,,"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'defense-curl']",,
+growlithe,,,"['headbutt', 'roar']",['flamethrower'],"['body-slam', 'thrash', 'fire-spin']"
+arcanine,,,"['headbutt', 'roar']",['flamethrower'],
+poliwag,,,"['headbutt', 'defense-curl', 'waterfall']",,"['mist', 'bubble-beam', 'haze', 'splash']"
+poliwhirl,,,"['ice-punch', 'headbutt', 'defense-curl', 'waterfall']",,
+poliwrath,"['submission', 'submission']",,"['ice-punch', 'headbutt', 'defense-curl', 'waterfall']",,
+abra,,['dream-eater'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",,"['barrier', 'light-screen']"
+kadabra,,['dream-eater'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",,
+alakazam,,['dream-eater'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",,
+machop,,,"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",['flamethrower'],"['rolling-kick', 'meditate', 'light-screen']"
+machoke,,,"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",['flamethrower'],
+machamp,,,"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",['flamethrower'],
+bellsprout,,['flash'],,,"['swords-dance', 'reflect', 'leech-life']"
+weepinbell,,['flash'],,,
+victreebel,['vine-whip'],['flash'],,,
+tentacool,['bubble-beam'],,,,"['aurora-beam', 'haze']"
+tentacruel,['bubble-beam'],,,,
+geodude,,,"['fire-punch', 'headbutt', 'defense-curl']",['flamethrower'],"['mega-punch', 'rock-slide']"
+graveler,,,"['fire-punch', 'headbutt', 'defense-curl']",['flamethrower'],
+golem,,,"['fire-punch', 'headbutt', 'roar', 'defense-curl']",['flamethrower'],
+ponyta,"['tackle', 'fire-blast']",,['headbutt'],['flamethrower'],"['double-kick', 'thrash', 'hypnosis', 'quick-attack']"
+rapidash,"['fury-attack', 'tackle', 'fire-blast']",,['headbutt'],['flamethrower'],
 slowpoke,['tackle'],['dream-eater'],['headbutt'],['flamethrower'],['stomp']
-slowbro,['tackle'],['dream-eater'],"['ice-punch', 'headbutt']",['flamethrower'],[]
-magnemite,[],[],[],[],[]
-magneton,['tri-attack'],[],[],[],[]
-farfetchd,[],[],['headbutt'],[],"['gust', 'quick-attack', 'mirror-move']"
-doduo,[],['swift'],[],[],"['supersonic', 'quick-attack', 'haze']"
-dodrio,[],['swift'],[],[],[]
-seel,[],[],"['headbutt', 'waterfall']",[],"['slam', 'disable', 'peck', 'lick']"
-dewgong,[],[],"['headbutt', 'waterfall']",[],[]
-grimer,[],[],"['fire-punch', 'ice-punch', 'thunder-punch']",['flamethrower'],"['haze', 'lick']"
-muk,[],[],"['fire-punch', 'ice-punch', 'thunder-punch']",['flamethrower'],[]
-shellder,[],[],[],[],"['take-down', 'bubble-beam', 'screech', 'barrier']"
-cloyster,[],[],[],[],[]
-gastly,[],[],[],[],"['haze', 'psywave']"
-haunter,[],[],[],[],[]
-gengar,[],[],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",[],[]
-onix,[],[],"['headbutt', 'roar']",[],['rock-slide']
-drowzee,[],[],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",[],"['barrier', 'light-screen']"
-hypno,[],[],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",[],[]
-krabby,[],[],[],[],"['slam', 'dig', 'haze', 'amnesia']"
-kingler,[],[],[],[],[]
-voltorb,[],[],['headbutt'],[],[]
-electrode,[],[],['headbutt'],[],[]
-exeggcute,['confusion'],"['strength', 'solar-beam', 'dream-eater', 'flash']",[],[],"['mega-drain', 'reflect']"
-exeggutor,"['confusion', 'egg-bomb']","['dream-eater', 'flash']",['headbutt'],[],[]
-cubone,[],[],"['fire-punch', 'thunder-punch', 'headbutt']",['flamethrower'],"['swords-dance', 'screech', 'skull-bash', 'rock-slide']"
-marowak,['growl'],[],"['fire-punch', 'thunder-punch', 'headbutt']",['flamethrower'],[]
-hitmonlee,[],[],['headbutt'],[],[]
-hitmonchan,[],[],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",[],[]
+slowbro,['tackle'],['dream-eater'],"['ice-punch', 'headbutt']",['flamethrower'],
+magnemite,,,,,
+magneton,['tri-attack'],,,,
+farfetchd,,,['headbutt'],,"['gust', 'quick-attack', 'mirror-move']"
+doduo,,['swift'],,,"['supersonic', 'quick-attack', 'haze']"
+dodrio,,['swift'],,,
+seel,,,"['headbutt', 'waterfall']",,"['slam', 'disable', 'peck', 'lick']"
+dewgong,,,"['headbutt', 'waterfall']",,
+grimer,,,"['fire-punch', 'ice-punch', 'thunder-punch']",['flamethrower'],"['haze', 'lick']"
+muk,,,"['fire-punch', 'ice-punch', 'thunder-punch']",['flamethrower'],
+shellder,,,,,"['take-down', 'bubble-beam', 'screech', 'barrier']"
+cloyster,,,,,
+gastly,,,,,"['haze', 'psywave']"
+haunter,,,,,
+gengar,,,"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",,
+onix,,,"['headbutt', 'roar']",,['rock-slide']
+drowzee,,,"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",,"['barrier', 'light-screen']"
+hypno,,,"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",,
+krabby,,,,,"['slam', 'dig', 'haze', 'amnesia']"
+kingler,,,,,
+voltorb,,,['headbutt'],,
+electrode,,,['headbutt'],,
+exeggcute,['confusion'],"['strength', 'solar-beam', 'dream-eater', 'flash']",,,"['mega-drain', 'reflect']"
+exeggutor,"['confusion', 'egg-bomb']","['dream-eater', 'flash']",['headbutt'],,
+cubone,,,"['fire-punch', 'thunder-punch', 'headbutt']",['flamethrower'],"['swords-dance', 'screech', 'skull-bash', 'rock-slide']"
+marowak,['growl'],,"['fire-punch', 'thunder-punch', 'headbutt']",['flamethrower'],
+hitmonlee,,,['headbutt'],,
+hitmonchan,,,"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",,
 lickitung,['lick'],['dream-eater'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'defense-curl']",['flamethrower'],['body-slam']
-koffing,['poison-gas'],[],[],['flamethrower'],"['psybeam', 'screech', 'psywave']"
-weezing,['poison-gas'],[],[],['flamethrower'],[]
+koffing,['poison-gas'],,,['flamethrower'],"['psybeam', 'screech', 'psywave']"
+weezing,['poison-gas'],,,['flamethrower'],
 rhyhorn,['earthquake'],['blizzard'],"['headbutt', 'roar']","['flamethrower', 'ice-beam']","['thrash', 'counter', 'rock-slide']"
-rhydon,['earthquake'],[],"['fire-punch', 'thunder-punch', 'headbutt', 'roar']",['flamethrower'],[]
+rhydon,['earthquake'],,"['fire-punch', 'thunder-punch', 'headbutt', 'roar']",['flamethrower'],
 chansey,"['egg-bomb', 'soft-boiled']",['dream-eater'],"['headbutt', 'defense-curl']",['flamethrower'],['metronome']
-tangela,['mega-drain'],['flash'],['headbutt'],[],"['mega-drain', 'confusion', 'reflect', 'amnesia']"
-kangaskhan,[],[],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'roar']",['flamethrower'],"['stomp', 'disable', 'focus-energy']"
-horsea,[],[],"['headbutt', 'waterfall']",[],"['disable', 'aurora-beam', 'dragon-rage', 'splash']"
-seadra,[],[],"['headbutt', 'waterfall']",[],[]
-goldeen,[],[],['waterfall'],[],"['hydro-pump', 'psybeam', 'haze']"
-seaking,[],[],['waterfall'],[],[]
-staryu,['bubble-beam'],[],['waterfall'],[],[]
-starmie,"['bubble-beam', 'recover', 'confuse-ray']",['dream-eater'],['waterfall'],[],[]
-mr-mime,"['psybeam', 'reflect']",['dream-eater'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",[],"['hypnosis', 'mimic']"
-scyther,[],[],['headbutt'],[],"['razor-wind', 'counter', 'light-screen']"
-jynx,[],['dream-eater'],"['ice-punch', 'headbutt']",[],[]
-electabuzz,"['thunderbolt', 'swift']",[],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",[],[]
-magmar,['fire-blast'],[],"['fire-punch', 'thunder-punch', 'headbutt']",['flamethrower'],[]
-pinsir,['submission'],[],['headbutt'],[],['fury-attack']
-tauros,"['horn-attack', 'thrash', 'rest']",['surf'],['headbutt'],['flamethrower'],[]
-magikarp,[],[],[],[],[]
-gyarados,['thrash'],[],"['headbutt', 'roar', 'waterfall']",['flamethrower'],[]
-lapras,[],['dream-eater'],['headbutt'],[],['aurora-beam']
-ditto,[],[],[],[],[]
-eevee,[],[],['headbutt'],[],[]
-vaporeon,[],[],"['headbutt', 'roar', 'waterfall']",[],[]
-jolteon,[],[],"['headbutt', 'roar']",[],[]
-flareon,[],[],"['headbutt', 'roar']",['flamethrower'],[]
-porygon,[],['dream-eater'],[],[],[]
-omanyte,"['bite', 'constrict']",[],['headbutt'],[],"['slam', 'supersonic', 'bubble-beam', 'aurora-beam', 'haze']"
-omastar,"['bite', 'bite', 'constrict']",[],['headbutt'],[],[]
-kabuto,"['sand-attack', 'mega-drain']",[],[],[],"['bubble-beam', 'aurora-beam', 'dig']"
-kabutops,"['sand-attack', 'mega-drain']",[],['headbutt'],[],[]
-aerodactyl,[],['earthquake'],"['headbutt', 'roar']",['flamethrower'],['whirlwind']
-snorlax,"['tackle', 'defense-curl']",[],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'defense-curl']",['flamethrower'],['lick']
-articuno,"['gust', 'reflect']",[],['roar'],[],[]
-zapdos,"['peck', 'thunder-wave']",[],['roar'],[],[]
-moltres,"['wing-attack', 'ember', 'flamethrower']",[],['roar'],['flamethrower'],[]
-dratini,[],[],"['headbutt', 'waterfall']",['flamethrower'],"['supersonic', 'mist', 'light-screen', 'haze']"
-dragonair,[],[],"['headbutt', 'waterfall']",['flamethrower'],[]
-dragonite,['wing-attack'],['fly'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'waterfall']",['flamethrower'],[]
-mewtwo,[],"['swift', 'dream-eater']","['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",['flamethrower'],[]
-mew,[],[],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'roar', 'defense-curl', 'waterfall']",['flamethrower'],[]
+tangela,['mega-drain'],['flash'],['headbutt'],,"['mega-drain', 'confusion', 'reflect', 'amnesia']"
+kangaskhan,,,"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'roar']",['flamethrower'],"['stomp', 'disable', 'focus-energy']"
+horsea,,,"['headbutt', 'waterfall']",,"['disable', 'aurora-beam', 'dragon-rage', 'splash']"
+seadra,,,"['headbutt', 'waterfall']",,
+goldeen,,,['waterfall'],,"['hydro-pump', 'psybeam', 'haze']"
+seaking,,,['waterfall'],,
+staryu,['bubble-beam'],,['waterfall'],,
+starmie,"['bubble-beam', 'recover', 'confuse-ray']",['dream-eater'],['waterfall'],,
+mr-mime,"['psybeam', 'reflect']",['dream-eater'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",,"['hypnosis', 'mimic']"
+scyther,,,['headbutt'],,"['razor-wind', 'counter', 'light-screen']"
+jynx,,['dream-eater'],"['ice-punch', 'headbutt']",,
+electabuzz,"['thunderbolt', 'swift']",,"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",,
+magmar,['fire-blast'],,"['fire-punch', 'thunder-punch', 'headbutt']",['flamethrower'],
+pinsir,['submission'],,['headbutt'],,['fury-attack']
+tauros,"['horn-attack', 'thrash', 'rest']",['surf'],['headbutt'],['flamethrower'],
+magikarp,,,,,
+gyarados,['thrash'],,"['headbutt', 'roar', 'waterfall']",['flamethrower'],
+lapras,,['dream-eater'],['headbutt'],,['aurora-beam']
+ditto,,,,,
+eevee,,,['headbutt'],,
+vaporeon,,,"['headbutt', 'roar', 'waterfall']",,
+jolteon,,,"['headbutt', 'roar']",,
+flareon,,,"['headbutt', 'roar']",['flamethrower'],
+porygon,,['dream-eater'],,,
+omanyte,"['bite', 'constrict']",,['headbutt'],,"['slam', 'supersonic', 'bubble-beam', 'aurora-beam', 'haze']"
+omastar,"['bite', 'bite', 'constrict']",,['headbutt'],,
+kabuto,"['sand-attack', 'mega-drain']",,,,"['bubble-beam', 'aurora-beam', 'dig']"
+kabutops,"['sand-attack', 'mega-drain']",,['headbutt'],,
+aerodactyl,,['earthquake'],"['headbutt', 'roar']",['flamethrower'],['whirlwind']
+snorlax,"['tackle', 'defense-curl']",,"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'defense-curl']",['flamethrower'],['lick']
+articuno,"['gust', 'reflect']",,['roar'],,
+zapdos,"['peck', 'thunder-wave']",,['roar'],,
+moltres,"['wing-attack', 'ember', 'flamethrower']",,['roar'],['flamethrower'],
+dratini,,,"['headbutt', 'waterfall']",['flamethrower'],"['supersonic', 'mist', 'light-screen', 'haze']"
+dragonair,,,"['headbutt', 'waterfall']",['flamethrower'],
+dragonite,['wing-attack'],['fly'],"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'waterfall']",['flamethrower'],
+mewtwo,,"['swift', 'dream-eater']","['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt']",['flamethrower'],
+mew,,,"['fire-punch', 'ice-punch', 'thunder-punch', 'headbutt', 'roar', 'defense-curl', 'waterfall']",['flamethrower'],

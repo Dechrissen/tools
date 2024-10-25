@@ -95,6 +95,11 @@ def createDataForCsv(lower, upper, data_rows):
             getTutorMoves(mon),
             getEggMoves(mon),
         ]
+        # make cell actually empty rather than an empty list if it contains empty list
+        for cell in range(len(row)):
+            if row[cell] == []:
+                row[cell] = ''
+        
         data_rows.append(row)
         print("learnset data created for", mon.species.name)
         time.sleep(2)
@@ -107,11 +112,11 @@ def createDataForCsv(lower, upper, data_rows):
 starter_data = [
     [
         "Pokemon",
-        "Level-up moves to add to Gen 1 learnset",
-        "TMs to add to Gen 1 learnset (if TM exists in Gen 1)",
-        "New TMs to add to Gen 1 learnset (if TM does not exist in Gen 1)",
-        "Tutor moves to add TM support for",
-        "Egg moves from Gen 2",
+        "New level-up moves in Gen 1 learnset",
+        "New TMs in Gen 1 learnset (if TM already exists in Gen 1)",
+        "New TMs in Gen 1 learnset (if TM does not exist in Gen 1)",
+        "New Tutor moves in Gen 1 learnset",
+        "New Egg moves in Gen 1 learnset",
     ]
 ]
 
